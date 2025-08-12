@@ -1,0 +1,15 @@
+.footer-container {
+    display: flex;
+    background-color: #96e5e5;
+    justify-content: space-between;
+    width: 90%;
+    text-align: center;
+
+    
+}
+  
+.footer-item {
+    color: white;
+    font-size: 10px;
+}
+  

@@ -1,0 +1,117 @@
+#root {
+  max-width: 1280px;
+  /* max-width: 500px; */
+  margin: 0 auto;
+  padding: 2rem;
+  height: 100%;
+  background-color: #96e5e5;
+}
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+  background-color: white;
+}
+.content {
+  flex: 1;
+}
+
+.cuelogo {
+  height: 7.5em;
+  /* padding-top: 2em; */
+}
+.card {
+  padding: 2em;
+  padding-top: 0px;
+}
+.title {
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 10px;
+  font-weight: 600;
+}
+.title h1 {
+  color: black;
+  align-items: left;
+}
+.Typewriter {
+  color: #242424;
+  font-size: 30px;
+  font-weight: 600;
+}
+.select-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.select-container {
+  place-items: center;
+  display: flex;
+  width: 400px;
+  height: 200px;
+}
+.select-item {
+  flex: 1;
+}
+
+.cue-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  border: none;
+  /* width: 790px; */
+  height: 50px;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #32cccd;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-text {
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.cue-btn:hover {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  background-color: #33d0d0;
+}
+
+.btnlogo {
+  height: 15px;
+  padding-left: 10px;
+}
+
+
+.button-container {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  display: flex;
+  justify-content: center; 
+  height: 60px;
+}
+
+.prompt {
+  color: #242424;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.footer-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+

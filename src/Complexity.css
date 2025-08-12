@@ -1,0 +1,48 @@
+.complexity-selector {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    gap: 5px;   
+}
+
+.complexity-btn {
+    border: none;
+    border-radius: 20px;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+    background-color: #32cccd;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    opacity: 0.5;
+}
+
+.complexity-btn--active {
+    opacity: 1;
+}
+
+.complexity-btn--easy {
+    background-color: #5bce65;
+}
+.complexity-btn--medium {
+    background-color: #ddcd62;
+}
+.complexity-btn--hard {
+    background-color: #dd6262;
+}
+
+.compTitle {
+    color: #242424;
+    font-size: 20px;
+    font-weight: 600;
+    height: 20px;
+}
+
+button:focus,
+button:focus-visible {
+    outline: none;
+}
+button:hover {
+    border-color: none;
+}
