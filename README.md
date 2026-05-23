@@ -1,4 +1,6 @@
-# draw-cue 
+
+# draw-cue <img height="45" alt="art-tech" src="https://github.com/user-attachments/assets/554abe63-8706-430c-a6ea-ac16785d0c63" />
+
 
 This sets up a React Frontend + Flask Backend project working in Vite with HMR some ESLint rules. Additionally, the Flask Backend utilizes a SQLAlchemy database and a Google Gemini API Key. Currently a work in progress...
 
@@ -29,3 +31,6 @@ Currently, two official plugins are available:
 
 #### Expanding the ESLint configuration
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+<a href="https://www.flaticon.com/free-icons/art-tech" title="art tech icons">Art tech icons created by Freepik - Flaticon</a>
