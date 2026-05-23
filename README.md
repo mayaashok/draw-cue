@@ -1,6 +1,6 @@
-# Draw-Cue 
+# draw-cue 
 
-This sets up a React Frontend + Flask Backend project working in Vite with HMR some ESLint rules. Additionally, the Flask Backend utilizes a SQLAlchemy database and a Google Gemini API Key. Currenty a work in progress...
+This sets up a React Frontend + Flask Backend project working in Vite with HMR some ESLint rules. Additionally, the Flask Backend utilizes a SQLAlchemy database and a Google Gemini API Key. Currently a work in progress...
 
 ## Available Scripts
 #### In the main project directory, you can run:
