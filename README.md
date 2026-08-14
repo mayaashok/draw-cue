@@ -1,6 +1,5 @@
 
 # draw-cue
-<img height="60" alt="art-tech" src="https://github.com/user-attachments/assets/52836458-cd5f-4258-b75f-2daa105e7b18" />
 
 This sets up a React Frontend + Flask Backend project working in Vite with HMR some ESLint rules. Additionally, the Flask Backend utilizes a SQLAlchemy database and a Google Gemini API Key. Currently a work in progress...
 
